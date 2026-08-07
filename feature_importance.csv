@@ -1,0 +1,12 @@
+feature,importance
+errorBalanceOrig,0.9678599575951354
+newbalanceOrig,0.9065264619832876
+amount,0.2964909179606205
+oldbalanceOrg,0.1668894168445469
+newbalanceDest,0.07464135889044732
+oldbalanceDest,0.04503258807029127
+origAccountEmptied,0.0
+destBalanceZeroBoth,0.0
+errorBalanceDest,-0.005156099174446283
+type_TRANSFER,-0.005156099174446283
+step,-0.006864718548969528
